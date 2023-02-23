@@ -49,9 +49,7 @@
         android:text="Enter your DATE_OF_BIRTH"
         android:textColor="#567"
         android:textSize="20sp"
-        android:textStyle="bold"
-
-        />
+        android:textStyle="bold" />
 
 
     <TextView
